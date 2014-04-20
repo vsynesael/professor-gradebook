@@ -1,4 +1,5 @@
-package team6;
+package ;
+
 import java.util.*;
 
 /**
