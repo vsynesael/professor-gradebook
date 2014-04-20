@@ -1,4 +1,4 @@
-package team6;
+package ;
 
 import java.awt.Component;
 import java.util.ArrayList;
