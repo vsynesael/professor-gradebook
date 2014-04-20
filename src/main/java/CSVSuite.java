@@ -1,4 +1,4 @@
-package team6;
+package ;
 
 import java.io.*;
 import java.util.*;
