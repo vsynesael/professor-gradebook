@@ -1,4 +1,4 @@
-package team6;
+package ;
 
 /**
  Copyright 2005 Bytecode Pty Ltd.
