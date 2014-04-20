@@ -1,4 +1,4 @@
-package team6;
+package ;
 
 import java.util.*;
 import java.awt.event.ActionEvent;
