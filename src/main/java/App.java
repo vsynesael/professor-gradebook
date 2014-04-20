@@ -1,4 +1,4 @@
-package team6;
+package ;
 
 /**
  * GradeBook application that a teacher or professor can use to track students'
